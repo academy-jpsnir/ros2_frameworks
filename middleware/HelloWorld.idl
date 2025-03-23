@@ -1,0 +1,3 @@
+struct HelloWorld {
+    int32 value;
+};
